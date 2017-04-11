@@ -1,0 +1,48 @@
+@import 'colors';
+
+.skillBlock {
+
+  .name {
+    cursor: pointer;
+    font-size: larger;
+    .skillTextBadge {
+      color: $FIRE;
+      float: right;
+      font-size: small;
+      
+      .glyphicon {
+        padding-right: 5px;
+      }
+      padding: 5px;
+    }
+  }
+
+  .description {
+    padding: 15px 0px;
+  }
+
+  .specializationBlock {
+    .specialization {
+      list-style: none;
+      padding: 10px;
+      
+      .specializationName {
+        border-bottom: 1px solid $PAPYRUS;
+      }
+    }
+  }
+
+  .pushComponents {
+    & > * {
+      padding: 5px 0px;
+    }
+  }  
+
+  &.minimized {
+    .description, .specializationBlock, .pushComponents {
+      display: none;
+    }
+  }
+}
+
+

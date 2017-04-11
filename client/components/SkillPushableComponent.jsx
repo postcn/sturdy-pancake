@@ -3,13 +3,13 @@ import React from 'react';
 function SkillPushableComponent(props) {
   if (props.isPushable) {
     let pushExampleList = props.pushExamples.map(function (push, index) {
-      return <li key={index}>{push}</li>;
+      return <li className="pushExample" key={index}>{push}</li>;
     });
     let failedPushExampleList = props.failedPushExamples.map(function (push, index) {
-      return <li key={index}>{push}</li>
+      return <li className="pushExample"key={index}>{push}</li>
     });
     return (
-      <div className="pushComponents">
+      <div className="pushComponents well">
         <div className="pushExamples">
           <span className="title">Examples of pushing skill</span>
           <ul>{pushExampleList}</ul>

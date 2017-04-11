@@ -6,7 +6,7 @@ function SkillTextBadge(props) {
   }
   else {
     return(
-      <span className="skillTextBadge">[{props.renderText}]</span>
+      <span className="skillTextBadge"><span className="glyphicon glyphicon-warning-sign"></span>[{props.renderText}]</span>
     )
   }
 }
