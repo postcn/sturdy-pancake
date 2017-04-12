@@ -26,7 +26,7 @@ class Skill extends React.Component {
         <div className="name" onClick={this.toggleState}>
           <span>{skill.getName()}</span>
           <SkillTextBadge render={skill.isUncommonSkill()} renderText='UNCOMMON' />
-          <SkillTextBadge render={skill.isModernEra()} renderText='MODERN' />
+          <SkillTextBadge className="modern" render={skill.isModernEra()} renderText='MODERN' />
         </div>
         <div className="description">
           {skill.getDescription()}

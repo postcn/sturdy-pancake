@@ -9,6 +9,10 @@
       color: $FIRE;
       float: right;
       font-size: small;
+
+      &.modern {
+        color: $BLAZE;
+      }
       
       .glyphicon {
         padding-right: 5px;

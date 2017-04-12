@@ -45,7 +45,7 @@ class ArtAndCraft extends Skill {
       "the audience or customer is highly offended or physically injured " +
       "by some aspect of your work",
       "the critics slam your work and no one desires your service any longer",
-      "an insanse investigator who fails a pushed roll creates a transgressive " +
+      "an insane investigator who fails a pushed roll creates a transgressive " +
       "work that shocks and causes violent reactions in the viewer - perhaps " +
       "only the most decadent could appreciate it."
     ];

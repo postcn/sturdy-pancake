@@ -1,0 +1,24 @@
+This skill reflects understanding of the inhuman (Lovecraftian) Cthulhu Mythos.
+It is not founded on the accumulation of knowledge as academic skills ar. Rather,
+it represents the opening and tuning of the human mind to the Cthulhu Mythos. Thus,
+Cthulhu Mythos skill derived from encouting Deep Ones (for example) is transferable
+to other situations and entities. Also referred to as "That which man should not know,"
+the Cthulhu Mythos is antithetical to human understanding and exposure to it
+undermines human sanity.
+No starting investigator may take points in Cthulhu Mythos as a starting skill
+(unless agreed with the Keeper). There is no tick box for Cthulhu Mythos on the 
+investigator sheet, as successful use of the skill does not offer an increase in
+the investigator's percentiles in the skill. Instead, points in Cthulhu Mythos
+are gained by encounters with the Mythos that result in insanity, by insane
+insights into the true nature of the universe, and by reading forbidden books
+and other Mythos writings. A character's Sanity may never be higher than 99 minus
+his Cthulhu Mythos skill. As Cthulhu Mythos points proliferate, they crowd out
+Sanity points, and leave the investigator vulnerable.
+Whenever spoor or other evidence of Mythos monsters is found, a successful roll
+against this skill allows the investigator to identify the entity, deduce something
+about it's behavior, or guess at some property it may possess. A successful Cthulhu
+Mythos roll might also allow an investigator to remember some fact concerning
+the Mythos, identify a spell by seeing it cast, remember that a particular spell
+or piece of information may be found in a particular Mythos tome, or achieve some
+other task. The Cthulhu Mythos skill may also be used to manifest magical spell-like
+effects.
