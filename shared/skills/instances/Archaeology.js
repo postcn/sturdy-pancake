@@ -1,4 +1,5 @@
 import Skill from '../Skill.js';
+import description from './descriptions/Archaeology.md';
 
 class Archaeology extends Skill {
   getName() {
@@ -6,13 +7,7 @@ class Archaeology extends Skill {
   }
 
   getDescription() {
-    return (
-      "Allows dating and identification of artifacts from past cultures, and " +
-      "the detection of fakes. Ensures expertise in setting up and excavating " +
-      "a dig site. On inspecting a site, the user might deduce the purposes and " +
-      "way of life of those who left the remains. Anthropology might aid in this. "+
-      "Archaeology also helps identify the written forms of extinct human languages."
-    );
+    return description;
   }
 
   getBaseSuccessPercent() {

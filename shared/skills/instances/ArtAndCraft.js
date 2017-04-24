@@ -1,6 +1,8 @@
 import Skill from '../Skill.js';
 import Specialization from '../Specialization.js';
 
+import description from './descriptions/ArtAndCraft.md';
+
 class ArtAndCraft extends Skill {
 
   getName() {
@@ -8,21 +10,7 @@ class ArtAndCraft extends Skill {
   }
 
   getDescription() {
-    return (
-      "The generic Art and Craft skill cannot be purchased. A specialization " +
-      "enables the making or repair of items, something typically requiring " +
-      "equipment and time, to be determined by the Keeper if necessary. " +
-      "Higher levels of success may indicate a higher quality or precision item. " +
-      "An art or craft skill may be used to make a duplicate or fake item. In such " +
-      "a case, the difficulty level would depend on the intricacy and " +
-      "distinctiveness of the original to be copied. A successful roll might " +
-      "provide information about an item, such as where or when it might have" +
-      "been made, some point of history or technique concerning it, or who might " +
-      "have made it. The holder of a specialization would have a breadth of " +
-      "knowledge within a particular field - knowledge of the subject, it's " +
-      "history and contemporary practitioners, as well as the ability to " +
-      "perform it."
-    );
+    return description;
   }
 
   getBaseSuccessPercent() {

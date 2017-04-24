@@ -1,16 +1,14 @@
 import Skill from '../Skill.js';
 
+import description from './descriptions/Appraise.md';
+
 class Appraise extends Skill {
   getName() {
     return "Appraise";
   }
 
   getDescription() {
-    return (
-      "Used to estimate the value of a particular item, including the quality " +
-      "material used, and workmanship. Where relevant, the skill user could pinpoint " +
-      "the age of the item, assess its historical relevance, and detect forgeries"
-    );
+    return description;
   }
 
   getBaseSuccessPercent() {

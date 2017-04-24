@@ -1,0 +1,13 @@
+The user diagnoses and treats accidents, injuries, diseases, poisonings, etc., and makes publci health recommendations. If an era has no good treatment for a malady, the effort is limited, uncertain, or inconclusive. The Medicine skill grants knowledge of a wide variety of drugs and potions, natural and man-made, and understanding of the side effects and contraindications.
+
+Treatment using the Medicine skill takes a minimum of one hour and can be dlivered any time after damage is taken, but if this is not performed on the same day, the difficulty level is increased (requiring a Hard success). A person treated successfully with Medicine recovers 1D3 hit points (in addition to the First Aid they have received), except that in the case of a dying character, who must initially receive successful First Aid to stabilize them before a Medicine roll is made.
+
+A character is limited to one treatment of First Aid and Medicine until further damage is taken (except in the case of a dying character who may require stabilizing with First Aid multiple times). Successful use of Medicine can rouse an unconscious person to consciousness.
+
+In treating Major Wounds, successful use of the Medicine skill provides the patient a Bonus die on their weekly recovery roll.
+
+The keeper may grant automatic success for medical treatment in a contemporary, well-equipped hospital.
+
+**1920s Medicine** 
+
+The Great War results in X-ray machines that are fast and portable. Insulin is isolated in 1922. Sir Alexander Fleming discovers penicillin in 1928. By the end of the decade, radiation therapy is being administered to cancer patients. Nitrous Oxide is still the best general anesthetic, despite tests with ethylene and acetylene. Cocaine is still the best topical anesthetic, although it is quickly being replaced by synthetic Novocaine. Morphine, although it is regulated by the Federal Government, is the best massive painkiller and, despite its addictive quality, has still not completely lost its early wonder-drug image. Antibiotics are non-existent, and quinine is still used to treat such things as malaria and yellow fever. State-mandated vaccinations have nearly eliminated smallpox as a threat, and successes have been obtained against typhoid-type diseases; however, many others such as cholera and tuberculosis have proved resistant and remain virulent. A worldwide influenza epidemic in 1918-1919 infected twenty million in the U.S., resulting in 850,000 fatalities. It is estimated that the pandemic killed twenty million people.

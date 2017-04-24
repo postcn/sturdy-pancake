@@ -1,25 +1,14 @@
 import Skill from '../Skill';
 
+import description from './descriptions/Charm.md';
+
 class Charm extends Skill {
     getName() {
         return "Charm";
     }
 
     getDescription() {
-        return (
-            "Charm takes many forms, including physical attraction, seduction, " +
-            "flattery, or simply warmth of personality. Charm may be used to " +
-            "compel someone to act in a certain way, but not in a manner completely " +
-            "contrary to that person's normal behavior. Charm is opposed by the Charm " +
-            "or Psychology skills. Charm may be used for bargaining, to haggle " +
-            "the price of an item or service down. If successful, the seller is won over " +
-            "and they may well reduce the price a little. "+
-            "Remember this about being charming: if the investigator begins to take a different" +
-            "approach, the Keeper may ask for a different skill to be used; if threats are used " +
-            "it may become Intimidation; or if a protacted discussion ensues, it may " +
-            "become Persuasion. Switching from one to the other to gain a second roll " +
-            "still constitutes a pushed roll."
-        );
+        return description;
     }
 
     getBaseSuccessPercent() {

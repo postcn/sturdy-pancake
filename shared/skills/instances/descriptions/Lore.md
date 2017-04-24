@@ -1,0 +1,5 @@
+This skill represents a character's expert understanding of a subject that falls outside the normal bounds of human knowledge. Specializations of Lore should be specific and unusual.
+
+Where the Keeper wishes to test an investigator's knowledge of something that falls within the bounds of one of these fields of Lore, but the investigator lacks the relevant Lore specialization, the Keeper may allow for another (more general) skill to be used but require a higher level of success. *For example, if the Keeper were testing a modern-day investigator's knowledge of alien abductions in the 1980s, he or she could ask for either a Regular success using UFO Lore, or an extreme success using History*.
+
+Lore skills are also used as a shorthand method of communicating the knowledge of a non-player character to the Keeper. In the main, knowledge is represented by the EDU characteristic and specific skills, such as History or Cthulhu Mythos. The Keeper should decide when the Lore skill should be incorporated into the game - usually only when a particular area of specialist knowledge is central to the scenario being played.

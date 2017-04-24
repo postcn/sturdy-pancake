@@ -1,5 +1,5 @@
 import Skill from '../Skill.js';
-import description from './descriptions/CreditRating.txt';
+import description from './descriptions/CreditRating.md';
 
 class CreditRating extends Skill {
 

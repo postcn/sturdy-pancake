@@ -1,21 +1,14 @@
 import Skill from '../Skill.js';
 
+import description from './descriptions/Anthropology.md';
+
 class Anthropology extends Skill {
   getName() {
     return "Anthropology";
   }
 
   getDescription() {
-    return(
-      "Enables the user to identify and understand an individual's way of life " +
-      "through observation. If the skill-user observes another culture from " +
-      "within for a time, or works from accurate records concerning an extinct " +
-      "culture, then simple predictions can be made about that culture's ways " +
-      "and morals, even though the evidence may be incomplete. Studying the " +
-      "culture for a month or more, the anthropologist begins to understand how" +
-      "the culture functions and, in combination with Psychology, may predict " +
-      "the actions and beliefs of those being studied"
-    );
+    return description;
   }
 
   getBaseSuccessPercent() {

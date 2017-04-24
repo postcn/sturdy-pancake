@@ -1,0 +1,5 @@
+Enables the user to identify and understand an individual's way of life through observation. If the skill-user observes another culture from within for a time, or works from accurate records concerning an extinct culture, then simple predictions can be made about that culture's ways and morals, even though the evidence may be incomplete. Studying the culture for a month or more, the anthropologist begins to understand how the culture functions and, in combination with Psychology, may predict the actions and beliefs of those being studied.
+
+**1920s Anthropology**
+
+By the 1920s, anthropology has clearly divided itself into two disciplines: cultural anthropology and physical anthropology, each subdivided differently in the U.S. and in Europe. The decade saw the professionalization of academic anthropology in the U.S. and the growth of psychological anthropology - an American contribution to anthropological theory. This school was rooted in the concept of culture as a mental phenomenon. Early psychological anthropologists undertook research into how individuals contribute to culture, and how culture shapes the individual.

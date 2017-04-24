@@ -1,0 +1,5 @@
+With success, the investigator may leap up or down vertically, or jump horizontally from a standing or running start. When falling, Jump may be used to lessen the potential fall damage.
+
+Judgment must be exercised as to what constitutes a regular jump, a hard jump, or an extreme jump (respectively requiring Regular success, Hard success, and Extreme success). As a guide, a Regular success would be required for an investigator to safely leap down vertically to his or her own height, hump horizontally from a standing start across a gap for a distance equal to the jumper's own height, or run and then jump horizontally to a distance of twice the jumper's own height. One might achieve double this distance with an Extreme success, although bear in mind the world record for a long jump is around 29 feet. 
+
+If falling from a height, a successful Jump prepares for the fall, reducing resultant damage by half.

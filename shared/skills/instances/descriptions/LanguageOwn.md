@@ -1,0 +1,3 @@
+When choosing this skill, the exact language must be specified and written next to the skill. In infancy and early childhood, most humans use a single language. The tongue chosen by the player for the Own Language automatically starts as equal to the investigator's EDU characteristic; thereafter, the investigator understands, speaks, reads, and writes at that percentage or higher (if further skill points are added during investigator creation).
+
+**Pushing Examples:** see **Language (Other)** skill.

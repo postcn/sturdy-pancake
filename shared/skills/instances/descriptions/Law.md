@@ -1,0 +1,3 @@
+Represents the chance of knowing pertinent law, precedent, legal maneuvers, or court procedure. The practice of law as a profession can lead to great rewards and political office, but it requires intense application over many years - a high Credit Rating is also usually crucial in this regard. In the United States, the State Bar of a particular commonwealth or state must sanction one's practice of law.
+
+When in a foreign country, it is suggested that the level of difficulty be increased when using this skill, unless the character has spent many months studying that nation's legal system.

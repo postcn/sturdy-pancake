@@ -1,0 +1,1 @@
+The ability to command and train domesticated animals to perform simple tasks. The skill is most commonly applied to dogs but may include birds, cats, monkeys, and so on (at the Keeper's discretion). For riding animals, such as horses or camels, the Ride skill is used for breaking-in and controlling such mounts.

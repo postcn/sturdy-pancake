@@ -1,0 +1,3 @@
+To be used whenever you wish to appear to be someone other than whom you are. The user changes posture, costume, and/or voice to enact a disguise, posing as another person or another sort of person. Theatrical makeup may help, as will fake ID.
+
+Note that to pass as a specific person in a face-to-face meeting with someone who knows the person being imitated is beyond the scope of this skill, and may well indicate the need for a combined skill roll at a higher difficulty (with Persuade, Charm, or Fast Talk).

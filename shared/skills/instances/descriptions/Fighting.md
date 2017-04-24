@@ -1,0 +1,5 @@
+The Fighting skill denotes a character's skill in melee combat. You may spend skill points to purchase any skill specialization. The generic Fighting skill cannot be purchased. Choose fighting specializations appropriate to your investigator's occupation and history.
+
+Those starting the game with a Fighting (Brawl) skill of 50% or higher may wish to choose some type of formal training as part of their background to account for his or her skill level. A myriad of fighting styles exist, each with its own pros and cons. Martial arts are simply a way of developing a person's Fighting skill. Decide how the character learned to fight, whether it be formal military training, martial arts classes or learned the hard way as a result of street fighting. The term "brawl" may feel too crude for a skilled martial artist and could be replaced (with Karate for example) if a player so wished.
+
+**Note**: as a combat skill, this cannot be pushed.

@@ -1,0 +1,3 @@
+The user is able to induce a trancelike state in a willing target who experiences heightened suggestibility, relaxation, and possible recall of forgotten memories. The limits of hypnotism should be decided by the Keeper to fit their game; it may be that only willing subjects can be hypnotized, or the Keeper may allow it to be used on unwilling targets in a more aggressive manner. Using hypnosis is usually an opposed roll (opposed by the POW or Psychology skill of the target).
+
+This skill may be utilized as hypnotheraphy on those suffering mental trauma, reducing the effects of a phobia or mania in a patient; successful hypnotherapy sessions may be needed to fully cure someone of a phobia (minimum of 1D6 sessions, at the Keeper's discretion).

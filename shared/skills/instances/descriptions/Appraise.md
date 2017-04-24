@@ -1,0 +1,1 @@
+Used to estimate the value of a particular item, including the quality material used, and workmanship. Where relevant, the skill user could pinpoint the age of the item, assess its historical relevance, and detect forgeries

@@ -18,6 +18,10 @@ class Skill extends React.Component {
     this.setState({active: !this.state.active});
   }
 
+  createMarkup(skill) {
+    return {__html: skill.getDescription()}
+  } 
+
   render() {
     let skill = this.props.skill;
     let active = this.state.active;
@@ -28,8 +32,7 @@ class Skill extends React.Component {
           <SkillTextBadge render={skill.isUncommonSkill()} renderText='UNCOMMON' />
           <SkillTextBadge className="modern" render={skill.isModernEra()} renderText='MODERN' />
         </div>
-        <div className="description">
-          {skill.getDescription()}
+        <div className="description" dangerouslySetInnerHTML={this.createMarkup(skill)}>
         </div>
         <SpecializationComponent isSpecialized={skill.requiresSpecialization()} specializations={skill.getSpecializationExamples()} />
         <SkillPushableComponent isPushable={skill.isPushable()} pushExamples={skill.getPushExamples()} failedPushExamples={skill.getFailedPushExamples()} />

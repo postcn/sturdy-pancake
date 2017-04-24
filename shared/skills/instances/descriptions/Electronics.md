@@ -1,0 +1,3 @@
+For troubleshooting and repairing electronic equipment. Allows simple electronic devices to be made. This is a skill for the present day - use Physics and Electrical repair for electronic developments of the 1920s. 
+
+Unlike the Electrical Repar skill,parts needed for electronics work often cannot be jury rigged, they are designed for precise jobs. Often without the right microchip or circuit board, the skill user is out of luck unless they can conceive some form of workaround.

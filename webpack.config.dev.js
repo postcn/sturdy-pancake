@@ -40,6 +40,10 @@ export default {
             {
                 test: /\.txt$/,
                 loader: 'raw-loader'
+            },
+            {
+                test: /\.md$/,
+                loaders: ['html-loader', 'markdown-loader']
             }
         ]
     },

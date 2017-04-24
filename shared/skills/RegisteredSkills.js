@@ -10,6 +10,7 @@ import Climb from './instances/Climb';
 import ComputerUse from './instances/ComputerUse';
 import CreditRating from './instances/CreditRating';
 import CthulhuMythos from './instances/CthulhuMythos';
+import LanguageOther from './instances/LanguageOther';
 
 class RegisteredSkills {
   static get skills() {
@@ -25,7 +26,8 @@ class RegisteredSkills {
       new Climb(),
       new ComputerUse(),
       new CreditRating(),
-      new CthulhuMythos()
+      new CthulhuMythos(),
+      new LanguageOther()
     ];
   }
 }

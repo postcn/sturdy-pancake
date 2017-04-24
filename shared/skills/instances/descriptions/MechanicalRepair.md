@@ -1,0 +1,5 @@
+This skill allows the investigator to repair a broken machine or to create a new one. Basic carpentry and plumbing projects can be performed, as well as constructing items (such as a pulley system) and repairing items (such as a steam pump). Special tools or parts may be required. This skill can be used to open common household locks, but nothing more advanced - see the **Locksmith** skill for more complex locks. Mechanical Repair is a companion skill to Electrical Repair, and both may be necessary to fix complex devices, such as a car or an aircraft.
+
+**1920s Mechanical Repair**
+
+A wide variety of employment opportunities for mechanics exist, from automobiles to home appliances, to industry. Inexpensive correspondence courses and periodicals, such as *Popular Mechanics*, can keep a mechanic abreast of new developments. In the 1920s, basic electrical repair jobs can often be handled with Mechanical Repair (see **Electrical Repair**).

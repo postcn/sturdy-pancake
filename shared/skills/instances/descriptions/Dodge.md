@@ -1,0 +1,3 @@
+Allows an investigator to instinctively evade blows, thrown missiles, and so forth. A character may attempt to use dodge any number of times in a combat round (but only once per attack). Dodge can increase through experience, like other skills. If an attack can be seen, a character can try to dodge it. It is impossible to dodge bullets because they cannot be seen while in motion; the best a character can do is to take evasive action that results in being harder to hit. (see **Diving for Cover**).
+
+**Note** as a combat skill, this cannot be pushed
