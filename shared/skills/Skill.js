@@ -9,7 +9,7 @@ class Skill {
   }
 
   getDescription() {
-    return "This skill has no name";
+    return "This skill has no description";
   }
 
   getBaseSuccessPercent() {

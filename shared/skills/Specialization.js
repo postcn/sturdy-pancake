@@ -14,7 +14,7 @@ class Specialization {
   }
 
   get startingPercentage() {
-    return this._startingPercentage;
+    return this._startingPercentage || 0;
   }
 
   static get NONE() {

@@ -8,7 +8,10 @@ function SpecializationComponent(props) {
     let specializations = props.specializations.map(function (specialization) {
       return(
         <li className="specialization" key={specialization.name}>
-          <div className="specializationName">{specialization.name}</div>
+          <div className="specializationName">
+            {specialization.name}
+            {specialization.startingPercentage && <span className="startingPercent">{specialization.startingPercentage}%</span>}
+          </div>
           <div className="specializationDescription">{specialization.description}</div>
         </li>
       )
