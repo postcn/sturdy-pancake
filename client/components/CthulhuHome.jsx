@@ -2,14 +2,13 @@ import React from 'react';
 
 import styles from '../css/home.scss';
 
-import imageSource from '../../shared/images/cute_cthulhu.png';
-
 class CthulhuHome extends React.Component {
 
     render() {
+        const imageSource = require('../../shared/images/cute_cthulhu.png');
         return(
-            <div>
-                <image className="homeImage" src={imageSource}/>
+            <div className="homeImage" >
+                <img src={imageSource}/>
             </div>
         );
     }

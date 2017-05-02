@@ -10,7 +10,6 @@ import Climb from './instances/Climb';
 import ComputerUse from './instances/ComputerUse';
 import CreditRating from './instances/CreditRating';
 import CthulhuMythos from './instances/CthulhuMythos';
-import LanguageOther from './instances/LanguageOther';
 import Demolitions from './instances/Demolitions';
 import Disguise from './instances/Disguise';
 import Diving from './instances/Diving';
@@ -21,6 +20,16 @@ import Electronics from './instances/Electronics';
 import FastTalk from './instances/FastTalk';
 import Fighting from './instances/Fighting';
 import Firearms from './instances/Firearms';
+import FirstAid from './instances/FirstAid';
+import History from './instances/History';
+import Hypnosis from './instances/Hypnosis';
+import Intimidate from './instances/Intimidate';
+import Jump from './instances/Jump';
+import LanguageOwn from './instances/LanguageOwn';
+import LanguageOther from './instances/LanguageOther';
+import Law from './instances/Law';
+import LibraryUse from './instances/LibraryUse';
+import Lore from './instances/Lore';
 
 class RegisteredSkills {
   static get skills() {
@@ -47,7 +56,16 @@ class RegisteredSkills {
       new FastTalk(),
       new Fighting(),
       new Firearms(),
-      new LanguageOther()
+      new FirstAid(),
+      new History(),
+      new Hypnosis(),
+      new Intimidate(),
+      new Jump(),
+      new LanguageOther(),
+      new LanguageOwn(),
+      new Law(),
+      new LibraryUse(),
+      new Lore()
     ];
   }
 }

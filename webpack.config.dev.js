@@ -35,7 +35,10 @@ export default {
             },
             {
                 test: /\.(png|jpg)$/,
-                loader: 'url-loader?limit=25000'
+                loader: 'file-loader',
+                options: {
+                    name: 'images/[name].[hash].[ext]'
+                }
             },
             {
                 test: /\.txt$/,

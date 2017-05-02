@@ -10,7 +10,7 @@ function SpecializationComponent(props) {
         <li className="specialization" key={specialization.name}>
           <div className="specializationName">
             {specialization.name}
-            {specialization.startingPercentage && <span className="startingPercent">{specialization.startingPercentage}%</span>}
+            {specialization.startingPercentage > 0 && <span className="startingPercent">{specialization.startingPercentage}%</span>}
           </div>
           <div className="specializationDescription">{specialization.description}</div>
         </li>

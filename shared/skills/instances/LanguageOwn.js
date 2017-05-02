@@ -1,10 +1,10 @@
 import Skill from '../Skill';
-import Specialization from '../Specialization';
-import description from './descriptions/LanguageOther.md';
+import description from './descriptions/LanguageOwn.md';
 
-class LanguageOther extends Skill {
+class LanguageOwn extends Skill {
+
     getName() {
-        return "Language, Other (Specializations)";
+        return "Language (Own)";
     }
 
     getDescription() {
@@ -13,8 +13,8 @@ class LanguageOther extends Skill {
 
     getBaseSuccessPercent() {
         return function (investigator) {
-            return 1;
-        }
+            return investigator.edu;
+        };
     }
 
     getPushExamples() {
@@ -33,17 +33,6 @@ class LanguageOther extends Skill {
             "an insane investigator failing a pushed roll may begin to speak in tongues, or imagines they are using the Enochian language."
         ]
     }
-
-    requiresSpecialization() {
-        return true;
-    }
-
-    getSpecializationExamples() {
-        return [
-            new Specialization("French", "Able to speak the french language"),
-            new Specialization("German", "Able to speak the german language")
-        ];
-    }
 }
 
-export default LanguageOther;
+export default LanguageOwn;

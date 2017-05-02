@@ -1,1 +1,1 @@
-Enables an investigator to remember the significance of a country, city, rejion, or person, as pertinent. A successful roll might be used to help identify tools, techniques, or ideas familiar to ancestors, but little known today.
+Enables an investigator to remember the significance of a country, city, region, or person, as pertinent. A successful roll might be used to help identify tools, techniques, or ideas familiar to ancestors, but little known today.
