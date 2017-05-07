@@ -30,6 +30,7 @@ import LanguageOther from './instances/LanguageOther';
 import Law from './instances/Law';
 import LibraryUse from './instances/LibraryUse';
 import Lore from './instances/Lore';
+import MechanicalRepair from './instances/MechanicalRepair';
 
 class RegisteredSkills {
   static get skills() {
@@ -65,7 +66,8 @@ class RegisteredSkills {
       new LanguageOwn(),
       new Law(),
       new LibraryUse(),
-      new Lore()
+      new Lore(),
+      new MechanicalRepair()
     ];
   }
 }
