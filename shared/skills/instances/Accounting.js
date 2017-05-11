@@ -10,10 +10,8 @@ class Accounting extends Skill {
     return description;
   }
 
-  getBaseSuccessPercent() {
-    return function (investigator) {
-      return 5;
-    }
+  getBaseSuccessPercent(investigator) {
+    return 5;
   }
 
   getPushExamples() {
@@ -28,7 +26,7 @@ class Accounting extends Skill {
     return [
       "discussions between investigators and third parties alert some enemy faction " +
       "to the investigator's intentions",
-      "a vital part of the accounts is destroyed or lost (perhaps in their tired "+
+      "a vital part of the accounts is destroyed or lost (perhaps in their tired " +
       "state the investigator spills coffee on them)",
       "An insane investigator failing a pushed roll might be found to have partially " +
       "eaten the accounts"

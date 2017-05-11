@@ -11,10 +11,8 @@ class FirstAid extends Skill {
         return description;
     }
 
-    getBaseSuccessPercent() {
-        return function (investigator) {
-            return 30;
-        }
+    getBaseSuccessPercent(investigator) {
+        return 30;
     }
 
     getPushExamples() {

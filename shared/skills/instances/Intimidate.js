@@ -11,10 +11,8 @@ class Intimidate extends Skill {
         return description;
     }
 
-    getBaseSuccessPercent() {
-        return function (investigator) {
-            return 15;
-        }
+    getBaseSuccessPercent(investigator) {
+        return 15;
     }
 
     getPushExamples() {

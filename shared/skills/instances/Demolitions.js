@@ -31,10 +31,8 @@ class Demolitions extends Skill {
         return Commonality.UNCOMMON;
     }
 
-    getBaseSuccessPercent() {
-        return function (investigator) {
-            return 1;
-        }
+    getBaseSuccessPercent(investigator) {
+        return 1;
     }
 }
 

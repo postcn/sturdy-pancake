@@ -10,10 +10,8 @@ class Archaeology extends Skill {
     return description;
   }
 
-  getBaseSuccessPercent() {
-    return function (investigator) {
-      return 1;
-    };
+  getBaseSuccessPercent(investigator) {
+    return 1;
   }
 
   getPushExamples() {

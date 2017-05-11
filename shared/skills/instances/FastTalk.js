@@ -11,10 +11,8 @@ class FastTalk extends Skill {
         return description;
     }
 
-    getBaseSuccessPercent() {
-        return function (investigator) {
-            return 5;
-        }
+    getBaseSuccessPercent(investigator) {
+        return 5;
     }
 
     getPushExamples() {

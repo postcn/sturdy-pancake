@@ -28,10 +28,8 @@ class Disguise extends Skill {
         ];
     }
 
-    getBaseSucessPercent() {
-        return function (investigator) {
-            return 5;
-        };
+    getBaseSucessPercent(investigator) {
+        return 5;
     }
 }
 

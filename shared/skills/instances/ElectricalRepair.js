@@ -11,10 +11,8 @@ class ElectricalRepair extends Skill {
         return description;
     }
 
-    getBaseSuccessPercent() {
-        return function(investigator) {
-            return 10;
-        };
+    getBaseSuccessPercent(investigator) {
+        return 10;
     }
 
     getPushExamples() {

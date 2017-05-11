@@ -11,10 +11,8 @@ class Jump extends Skill {
         return description;
     }
 
-    getBaseSuccessPercent() {
-        return function (investigator) {
-            return 20;
-        }
+    getBaseSuccessPercent(investigator) {
+        return 20;
     }
 
     getPushExamples() {

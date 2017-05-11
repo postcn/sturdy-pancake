@@ -35,6 +35,10 @@ class ComputerUse extends Skill {
             "or look away from the screen" 
         ]
     }
+
+    getBaseSuccessPercent(investigator) {
+        return 5;
+    }
 }
 
 export default ComputerUse;

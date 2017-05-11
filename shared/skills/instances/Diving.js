@@ -33,10 +33,8 @@ class Diving extends Skill {
         ];
     }
 
-    getBaseSuccessPercent() {
-        return function (investigator) {
-            return 1;
-        }
+    getBaseSuccessPercent(investigator) {
+        return 1;
     }
 
 }

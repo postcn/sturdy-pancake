@@ -11,10 +11,8 @@ class Dodge extends Skill {
         return description;
     }
 
-    getBaseSuccessPercent() {
-        return function (investigator) {
-            return investigator.dex / 2;
-        }
+    getBaseSuccessPercent(investigator) {
+        return investigator.dex / 2;
     }
 
     isPushable() {

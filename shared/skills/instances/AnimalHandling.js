@@ -12,15 +12,13 @@ class AnimalHandling extends Skill {
     return description;
   }
 
-  getBaseSuccessPercent() {
-    return function (investigator) {
-      return 5;
-    }
+  getBaseSuccessPercent(investigator) {
+    return 5;
   }
 
   getPushExamples() {
     return [
-      "taking greater personal risk, in terms oof getting closer to or directly "+
+      "taking greater personal risk, in terms oof getting closer to or directly " +
       "handling the animal."
     ]
   }

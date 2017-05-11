@@ -12,11 +12,8 @@ class Skill {
     return "This skill has no description";
   }
 
-  getBaseSuccessPercent() {
-    //References the investigator so we take it as an argument
-    return function (investigator) {
-      return 0;
-    };
+  getBaseSuccessPercent(investigator) {
+    return 0;
   }
 
   isPushable() {

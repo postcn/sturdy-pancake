@@ -11,10 +11,8 @@ class LanguageOwn extends Skill {
         return description;
     }
 
-    getBaseSuccessPercent() {
-        return function (investigator) {
-            return investigator.edu;
-        };
+    getBaseSuccessPercent(investigator) {
+        return investigator.edu;
     }
 
     getPushExamples() {

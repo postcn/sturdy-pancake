@@ -16,10 +16,8 @@ class Electronics extends Skill {
         return Era.MODERN;
     }
 
-    getBaseSuccessPercent() {
-        return function (investigator) {
-            return 1;
-        }
+    getBaseSuccessPercent(investigator) {
+        return 1;
     }
 
     getPushExamples() {

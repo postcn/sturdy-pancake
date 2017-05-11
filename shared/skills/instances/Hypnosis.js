@@ -11,11 +11,9 @@ class Hypnosis extends Skill {
         return description;
     }
 
-    getBaseSuccessPercent() {
-        return function(investigator) {
+    getBaseSuccessPercent(investigator) {
             return 1;
         }
-    }
 
     getCommonality() {
         return Commonality.UNCOMMON;
