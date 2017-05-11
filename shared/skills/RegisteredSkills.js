@@ -32,6 +32,9 @@ import LibraryUse from './instances/LibraryUse';
 import Lore from './instances/Lore';
 import MechanicalRepair from './instances/MechanicalRepair';
 import Medicine from './instances/Medicine';
+import NaturalWorld from './instances/NaturalWorld';
+import Navigate from './instances/Navigate';
+import Occult from './instances/Occult';
 
 class RegisteredSkills {
   static get skills() {
@@ -69,7 +72,10 @@ class RegisteredSkills {
       new LibraryUse(),
       new Lore(),
       new MechanicalRepair(),
-      new Medicine()
+      new Medicine(),
+      new NaturalWorld(),
+      new Navigate(),
+      new Occult()
     ];
   }
 }
